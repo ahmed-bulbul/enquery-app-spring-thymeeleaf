@@ -8,9 +8,7 @@ PROJECT WORK - ENQUIRY APP:
 The purpose of this project work is to learn step by step development using Spring Data JPA Project. 
 This video series will cover best practices of JPA Hibernate and related tools. 
 Also it will everything thats necessary for production grade application. 
-The complete video series is available in my YouTube Channel.
 
-https://www.youtube.com/watch?v=xnQXpV7TaI8&list=PLLGI5phu9E45dpO83OlMfUmGm0hKLuPGa
 
 WHAT IS SPRING DATA PROJECT:
 Spring Data’s mission is to provide a familiar and consistent, Spring-based programming model for data access while still retaining the special traits of the underlying data store.
